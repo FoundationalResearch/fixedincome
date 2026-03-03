@@ -1,9 +1,6 @@
 ---
 name: fixed-income
 description: Bond analysis methodology covering yield curves, duration, credit spreads, and fixed income portfolio construction
-metadata:
-  author: scrutari
-  version: "1.0"
 ---
 
 # Fixed Income Analysis

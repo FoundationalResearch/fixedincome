@@ -9,6 +9,16 @@
 
 This is a standalone agent skill -- a plain Markdown file that any LLM agent can use as instructions. It works with Claude Code, Cursor, Codex, Windsurf, and any tool that supports prompt files or system instructions.
 
+## Install
+
+```bash
+npx skills add FoundationalResearch/skills@fixed-income
+```
+
+Works with **Claude Code, Cursor, GitHub Copilot, Codex, Gemini, Windsurf**, and [20+ other agents](https://skills.sh).
+
+> Part of the [FoundationalResearch Skills](https://github.com/FoundationalResearch/skills) collection — 14 professional financial analysis skills for AI agents.
+
 ---
 
 ## What This Skill Does
@@ -60,7 +70,7 @@ This ensures that every bond or portfolio recommendation is accompanied by a cle
 
 ---
 
-## Installation
+## Also available on npm
 
 ```bash
 npm install @foundationalresearch/fixedincome
